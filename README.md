@@ -1,2 +1,2 @@
 # device_stats
-Flutter app for device health
+Flutter app for device stats and health
